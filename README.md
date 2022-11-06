@@ -4,7 +4,10 @@
 
 ### 📄 Know about my experiences [Resume](https://github.com/shehraj123/shehraj123/blob/main/shehraj-05112022.pdf)
 
-### 🌱 I’m currently learning: Julia, R, Firebase
+### 🌱 I’m currently learning: 
+<img src="assets/julia.svg" alt="c" width="40" height="40"/>Julia
+<img src="assets/r.svg" alt="c" width="40" height="40"/>R 
+<img src="assets/firebase.svg" alt="c" width="40" height="40"/>Firebase
 
 ### 📊 Stats
 ![Shehraj Singh stats](https://github-readme-stats.vercel.app/api?username=shehraj123&show_icons=true&theme=buefy)
