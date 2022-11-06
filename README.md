@@ -2,9 +2,8 @@
   
  I am an undergraduate student at University of Alberta, learning and developing software to make impact, one step at a time. Ever since I wrote my first program, I was fascinated by the computers and their power to impact society today. I have developed numerous projects over the years and have a number of skills to offer. But my best skill is my ability to tear through new concepts and tools and in order to solve challenges.
 
+📄 Know about my experiences [Resume](https://github.com/shehraj123/shehraj123/blob/main/shehraj-05112022.pdf)
 
-
-### 📊 Stats
 
 ![Shehraj Singh stats](https://github-readme-stats.vercel.app/api?username=shehraj123&show_icons=true&theme=buefy)
 
